@@ -1,3 +1,5 @@
+# Real Time Chat Application
+
 This Python-based chat application provides real-time communication between multiple clients through a server. The server and client scripts use sockets for communication and feature a graphical user interface (GUI) built using the tkinter library.
 
 Modules Used
